@@ -1,0 +1,8 @@
+html:5탭 치면 기본완성됨
+네모4개 누르고 확장프로그램 - live server 설치
+아래쪽우측 라이버서버 누르면 ㅋ짐
+안뜨면 css폴더아래에 .vscode폴더 만들기
+settings.json만들고
+{
+	"liveServer.settings.port": 5001
+}
